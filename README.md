@@ -29,7 +29,7 @@ A high-accuracy Retrieval-Augmented Generation (RAG) pipeline designed for local
 
 3. **Install dependencies**:
    ```bash
-   pip install langchain langchain-chroma langchain-community pypdf python-dotenv
+   pip install -r requirements.txt
    ```
 
 4. **Environment Variables**:
